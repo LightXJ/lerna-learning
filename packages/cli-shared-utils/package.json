@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib"
   ],
@@ -20,5 +23,5 @@
     "chalk": "^4.1.0",
     "semver": "^7.3.4"
   },
-  "gitHead": "da03263934024054b5a2120d865bed3cc14b7b9e"
+  "gitHead": "458d137b1c5bd7cc38f045f16631e35c1074066b"
 }
