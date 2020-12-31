@@ -1,6 +1,6 @@
 {
-  "name": "@mom-demo/cli",
-  "version": "0.0.4",
+  "name": "@momss/cli",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "LightXJ <wxjneu@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.2",
+    "@momss/cli-shared-utils": "^0.0.2",
     "chalk": "^4.1.0"
   },
   "gitHead": "458d137b1c5bd7cc38f045f16631e35c1074066b"
