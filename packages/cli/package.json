@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@momss/cli-shared-utils": "^0.0.2",
+    "@momss/cli-shared-utils": "^0.0.7",
     "chalk": "^4.1.0"
   },
   "gitHead": "458d137b1c5bd7cc38f045f16631e35c1074066b"
